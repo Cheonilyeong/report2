@@ -2,6 +2,8 @@ include <stdio.h>
 
 int main(void) {
 	printf("hello, wolrd!");
-	printf("nice to meet you!");
+<<<<<<< HEAD
+	printf("coke");
+>>>>>>> devel
 	return 0;
 }
