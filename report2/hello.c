@@ -5,6 +5,7 @@ int main(void) {
 <<<<<<< HEAD
 	printf("coke");
 	printf("hahah");
+	printf("hi");
 >>>>>>> devel
 	return 0;
 }
